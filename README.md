@@ -7,7 +7,7 @@
 
 ## Wiring Diagram
 
-![Tinkercad Wiring](../images/Radar_Arduino_Simple.png)
+![Tinkercad Wiring](Radar_Arduino_Simple.png)
 
 ---
 
