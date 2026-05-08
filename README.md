@@ -7,7 +7,8 @@
 
 ## Demonstration Video
 
-[![Watch the demo](https://img.youtube.com/vi/H0uvinRyD2k/0.jpg)](https://www.youtube.com/watch?v=H0uvinRyD2k)
+[![Watch the demo](thumbnail.jpg)](https://youtu.be/H0uvinRyD2k)
+*Click the thumbnail to watch the demonstration Video*
 
 ---
 
