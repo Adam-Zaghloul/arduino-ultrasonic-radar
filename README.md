@@ -7,10 +7,7 @@
 
 ## Demonstration Video
 
-> 📹 *Video coming soon — demonstration of hand approaching the HC-SR04 sensor and radar reacting in real time with zone-based audio alerts.*
-
-<!-- Replace the line below with your actual video embed or link once uploaded -->
-<!-- [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+[![Watch the demo](https://img.youtube.com/vi/L_cSLF0TWHs/0.jpg)](https://www.youtube.com/watch?v=L_cSLF0TWHs)
 
 ---
 
